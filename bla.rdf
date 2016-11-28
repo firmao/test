@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#">
+
+  <rdf:Description rdf:about="http://dblp.rkbexplorer.com/id/people-d3de5297f20154029e3955b350469950-620fa6ddd473bf2b45b4ac01d56cef5a">
+    <owl:sameAs>
+      <rdf:Description rdf:about="http://dblp.rkbexplorer.com/id/people-d3de5297f20154029e3955b350469950-affa6c2c329dd57535b269ead69cdbdd">
+        <owl:sameAs rdf:resource="http://dblp.rkbexplorer.com/id/people-d3de5297f20154029e3955b350469950-e12ce221b139bc9a8bba5d58f7d0140f"/>
+        <owl:sameAs rdf:resource="http://dblp.rkbexplorer.com/id/people-d3de5297f20154029e3955b350469950-e3d9741018115328af55b26105af6bf5"/>
+      </rdf:Description>
+    </owl:sameAs>
+
+    <owl:sameAs rdf:resource="http://dblp.rkbexplorer.com/id/people-d3de5297f20154029e3955b350469950-e12ce221b139bc9a8bba5d58f7d0140f"/>
+    <owl:sameAs rdf:resource="http://dblp.rkbexplorer.com/id/people-d3de5297f20154029e3955b350469950-e3d9741018115328af55b26105af6bf5"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dblp.rkbexplorer.com/id/people-d3de5297f20154029e3955b350469950-e12ce221b139bc9a8bba5d58f7d0140f">
+    <owl:sameAs rdf:resource="http://dblp.rkbexplorer.com/id/people-d3de5297f20154029e3955b350469950-e3d9741018115328af55b26105af6bf5"/>
+  </rdf:Description>
+
+</rdf:RDF>
